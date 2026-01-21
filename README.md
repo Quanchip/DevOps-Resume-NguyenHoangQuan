@@ -14,4 +14,4 @@
 
 ## 📫 Contact
 - 📧 Email: nguyenhoangquan.career@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hquannguyen/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/hquannguyen/](https://www.linkedin.com/in/hquannguyen/)
